@@ -17,7 +17,7 @@ body{
 .add {
     position: fixed;
     text-shadow: #1b9fc7;
-    top: 4rem;
+    top: 3rem;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #126f8b;
@@ -42,7 +42,7 @@ body{
 }
 
 .note .tools {
-    background-color: #647f3d;
+    background-color: #126f8b;
     display: flex;
     justify-content: flex-end;
     padding: 0.5rem;
